@@ -54,40 +54,40 @@ Package-specific issues should be submitted to their respective repositories. If
 
 Below is the list of packages contained in the CLSS suite so far:
 
-- [CLSS.Constants.DefaultRandom](https://www.nuget.org/packages/CLSS.Constants.DefaultRandom)
+- [CLSS.Constants.DefaultRandom](https://www.nuget.org/packages/CLSS.Constants.DefaultRandom) ([Source](https://github.com/tonygiang/CLSS.Constants.DefaultRandom))
 
-- [CLSS.Constants.NoOp](https://www.nuget.org/packages/CLSS.Constants.NoOp)
+- [CLSS.Constants.NoOp](https://www.nuget.org/packages/CLSS.Constants.NoOp) ([Source](https://github.com/tonygiang/CLSS.Constants.NoOp))
 
-- [CLSS.ExtensionMethods.CommonMathOps](https://www.nuget.org/packages/CLSS.ExtensionMethods.CommonMathOps)
+- [CLSS.ExtensionMethods.CommonMathOps](https://www.nuget.org/packages/CLSS.ExtensionMethods.CommonMathOps) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.CommonMathOps))
 
-- [CLSS.ExtensionMethods.IComparable.InRange](https://www.nuget.org/packages/CLSS.ExtensionMethods.IComparable.InRange)
+- [CLSS.ExtensionMethods.IComparable.InRange](https://www.nuget.org/packages/CLSS.ExtensionMethods.IComparable.InRange) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IComparable.InRange))
 
-- [CLSS.ExtensionMethods.IDictionary.GetOrAdd](https://www.nuget.org/packages/CLSS.ExtensionMethods.IDictionary.GetOrAdd)
+- [CLSS.ExtensionMethods.IDictionary.GetOrAdd](https://www.nuget.org/packages/CLSS.ExtensionMethods.IDictionary.GetOrAdd) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IDictionary.GetOrAdd))
 
-- [CLSS.ExtensionMethods.IDictionary.MoveKey](https://www.nuget.org/packages/CLSS.ExtensionMethods.IDictionary.MoveKey)
+- [CLSS.ExtensionMethods.IDictionary.MoveKey](https://www.nuget.org/packages/CLSS.ExtensionMethods.IDictionary.MoveKey) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IDictionary.MoveKey))
 
-- [CLSS.ExtensionMethods.IEnumerable.ForEach](https://www.nuget.org/packages/CLSS.ExtensionMethods.IEnumerable.ForEach)
+- [CLSS.ExtensionMethods.IEnumerable.ForEach](https://www.nuget.org/packages/CLSS.ExtensionMethods.IEnumerable.ForEach) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IEnumerable.ForEach))
 
-- [CLSS.ExtensionMethods.IEnumerable.MinMaxBy](https://www.nuget.org/packages/CLSS.ExtensionMethods.IEnumerable.MinMaxBy)
+- [CLSS.ExtensionMethods.IEnumerable.MinMaxBy](https://www.nuget.org/packages/CLSS.ExtensionMethods.IEnumerable.MinMaxBy) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IEnumerable.MinMaxBy))
 
-- [CLSS.ExtensionMethods.IList.FillBy](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.FillBy)
+- [CLSS.ExtensionMethods.IList.FillBy](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.FillBy) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IList.FillBy))
 
-- [CLSS.ExtensionMethods.IList.FirstLastIndex](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.FirstLastIndex)
+- [CLSS.ExtensionMethods.IList.FirstLastIndex](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.FirstLastIndex) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IList.FirstLastIndex))
 
-- [CLSS.ExtensionMethods.IList.SwapIndices](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.SwapIndices)
+- [CLSS.ExtensionMethods.IList.SwapIndices](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.SwapIndices) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IList.SwapIndices))
 
-- [CLSS.ExtensionMethods.Object.As](https://www.nuget.org/packages/CLSS.ExtensionMethods.Object.As)
+- [CLSS.ExtensionMethods.Object.As](https://www.nuget.org/packages/CLSS.ExtensionMethods.Object.As) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.Object.As))
 
-- [CLSS.ExtensionMethods.Object.Is](https://www.nuget.org/packages/CLSS.ExtensionMethods.Object.Is)
+- [CLSS.ExtensionMethods.Object.Is](https://www.nuget.org/packages/CLSS.ExtensionMethods.Object.Is) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.Object.Is))
 
-- [CLSS.ExtensionMethods.Pipe](https://www.nuget.org/packages/CLSS.ExtensionMethods.Pipe)
+- [CLSS.ExtensionMethods.Pipe](https://www.nuget.org/packages/CLSS.ExtensionMethods.Pipe) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.Pipe))
 
-- [CLSS.ExtensionMethods.String.AsEnum](https://www.nuget.org/packages/CLSS.ExtensionMethods.String.AsEnum)
+- [CLSS.ExtensionMethods.String.AsEnum](https://www.nuget.org/packages/CLSS.ExtensionMethods.String.AsEnum) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.String.AsEnum))
 
-- [CLSS.Types.MemoizedFunc](https://www.nuget.org/packages/CLSS.Types.MemoizedFunc)
+- [CLSS.Types.MemoizedFunc](https://www.nuget.org/packages/CLSS.Types.MemoizedFunc) ([Source](https://github.com/tonygiang/CLSS.Types.MemoizedFunc))
 
-- [CLSS.Types.Reference](https://www.nuget.org/packages/CLSS.Types.Reference)
+- [CLSS.Types.Reference](https://www.nuget.org/packages/CLSS.Types.Reference) ([Source](https://github.com/tonygiang/CLSS.Types.Reference))
 
-- [CLSS.Types.SortedAction](https://www.nuget.org/packages/CLSS.Types.SortedAction)
+- [CLSS.Types.SortedAction](https://www.nuget.org/packages/CLSS.Types.SortedAction) ([Source](https://github.com/tonygiang/CLSS.Types.SortedAction))
 
-- [CLSS.Types.ValueRange](https://www.nuget.org/packages/CLSS.Types.ValueRange)
+- [CLSS.Types.ValueRange](https://www.nuget.org/packages/CLSS.Types.ValueRange) ([Source](https://github.com/tonygiang/CLSS.Types.ValueRange))
