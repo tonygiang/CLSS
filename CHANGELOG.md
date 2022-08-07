@@ -1,3 +1,21 @@
+# Update 2 - 2022-08-07
+
+### Version updates
+
+- `CLSS.Constants.DefaultRandom` 1.1.0 > 1.2.0
+  - Improve the thread safetyness of DefaultRandom by making it atomic.
+- `CLSS.ExtensionMethods.IComparable.InRange` 1.0.0 > 1.1.0
+  - Add an overload taking in ValueRange for .NET Standard 2.0.
+- `CLSS.ExtensionMethods.IList.SwapIndices` 1.1.0 > 1.2.0
+  - Update README to correct grammar errors.
+
+### New packages
+
+- [`CLSS.ExtensionMethods.IComparable.ClampToRange`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IComparable.ClampToRange): An extension method to clamp the source value into a range.
+- [`CLSS.ExtensionMethods.IDictionary.SwapKeys`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IDictionary.SwapKeys): An extension method to swap the values at 2 different keys in an IDictionary.
+- [`CLSS.ExtensionMethods.IEnumerator.LoopNext`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IEnumerator.LoopNext): An extension method to infinitely advance an enumerator in a loop.
+- [`CLSS.ExtensionMethods.Object.ToStringFormattedBy`](https://www.nuget.org/packages/CLSS.ExtensionMethods.Object.ToStringFormattedBy): An extension method to transform one or several objects into string form following a particular format.
+
 # Update 1 - 2022-08-04
 
 ### Version updates

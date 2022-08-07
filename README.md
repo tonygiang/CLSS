@@ -99,3 +99,10 @@ Below is the list of packages contained in the CLSS suite so far:
 - [`CLSS.ExtensionMethods.IList.GetWeightedRandom`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.GetWeightedRandom) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IList.GetWeightedRandom)): An extension method to select a weighted random element from a list.
 - [`CLSS.ExtensionMethods.IList.Shuffle`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.Shuffle) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IList.Shuffle)): An extension method to shuffle an IList in place using the Fisher-Yates algorithm.
 - [`CLSS.Types.WeightedSampler`](https://www.nuget.org/packages/CLSS.Types.WeightedSampler) ([Source](https://github.com/tonygiang/CLSS.Types.WeightedSampler)): A struct type that wraps around a list collection to select a weighted random element from it efficiently.
+
+##### New in Update 2:
+
+- [`CLSS.ExtensionMethods.IComparable.ClampToRange`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IComparable.ClampToRange) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IComparable.ClampToRange)): An extension method to clamp the source value into a range.
+- [`CLSS.ExtensionMethods.IDictionary.SwapKeys`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IDictionary.SwapKeys) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IDictionary.SwapKeys)): An extension method to swap the values at 2 different keys in an IDictionary.
+- [`CLSS.ExtensionMethods.IEnumerator.LoopNext`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IEnumerator.LoopNext) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IEnumerator.LoopNext)): An extension method to infinitely advance an enumerator in a loop.
+- [`CLSS.ExtensionMethods.Object.ToStringFormattedBy`](https://www.nuget.org/packages/CLSS.ExtensionMethods.Object.ToStringFormattedBy) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.Object.ToStringFormattedBy)): An extension method to transform one or several objects into string form following a particular format.
