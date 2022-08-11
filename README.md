@@ -106,3 +106,9 @@ Below is the list of packages contained in the CLSS suite so far:
 - [`CLSS.ExtensionMethods.IDictionary.SwapKeys`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IDictionary.SwapKeys) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IDictionary.SwapKeys)): An extension method to swap the values at 2 different keys in an IDictionary.
 - [`CLSS.ExtensionMethods.IEnumerator.LoopNext`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IEnumerator.LoopNext) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IEnumerator.LoopNext)): An extension method to infinitely advance an enumerator in a loop.
 - [`CLSS.ExtensionMethods.Object.ToStringFormattedBy`](https://www.nuget.org/packages/CLSS.ExtensionMethods.Object.ToStringFormattedBy) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.Object.ToStringFormattedBy)): An extension method to transform one or several objects into string form following a particular format.
+
+##### New in Update 3:
+
+- [`CLSS.Constants.ValueEquivalentStrings`](https://www.nuget.org/packages/CLSS.Constants.ValueEquivalentStrings) ([Source](https://github.com/tonygiang/CLSS.Constants.ValueEquivalentStrings)): A global cache of default string representations of values of value types.
+- [`CLSS.ExtensionMethods.IEnumerable.Looping`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IEnumerable.Looping) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IEnumerable.Looping)): An extension method create an enumerable that infinitely loops over a collection.
+- [`CLSS.ExtensionMethods.IList.GetLoopingElementAt`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.GetLoopingElementAt) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IList.GetLoopingElementAt)): An extension method to cyclically convert any integer number into a valid index to get an element from a list.

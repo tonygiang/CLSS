@@ -1,3 +1,18 @@
+# Update 3 - 2022-08-11
+
+### Version updates
+
+- `CLSS.ExtensionMethods.IComparable.InRange` 1.1.0 > 1.1.1
+  - Corrected a spelling error in README.
+- `CLSS.ExtensionMethods.Pipe` 1.1.0 > 1.2.0
+  - Added support for Converter (.NET Standard 2.0 only) and Predicate delegates from BCL.
+
+### New packages
+
+- [`CLSS.Constants.ValueEquivalentStrings`](https://www.nuget.org/packages/CLSS.Constants.ValueEquivalentStrings): A global cache of default string representations of values of value types.
+- [`CLSS.ExtensionMethods.IEnumerable.Looping`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IEnumerable.Looping): An extension method create an enumerable that infinitely loops over a collection.
+- [`CLSS.ExtensionMethods.IList.GetLoopingElementAt`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.GetLoopingElementAt): An extension method to cyclically convert any integer number into a valid index to get an element from a list.
+
 # Update 2 - 2022-08-07
 
 ### Version updates
