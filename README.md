@@ -26,7 +26,7 @@ Why is there a [`ForEach`](https://docs.microsoft.com/en-us/dotnet/api/system.co
 
 Why does [`Enum.Parse`](https://docs.microsoft.com/en-us/dotnet/api/system.enum.parse?view=net-6.0) allow non-Enum value types in its type parameter?
 
-If you ever felt like these irregularities should not have existed to provide better consistency, CLSS suite offers a solution for you. It fills in the gaps left by the Standard Library. Its XML comments do the best to resemble ones that ship with classes and methods in the SL. Its implementations try to follow the [.NET reference source](https://referencesource.microsoft.com/) as closely as possible. CLSS suite is built to make the SL feel **complete**.
+If you ever felt like these irregularities should not have existed to provide better consistency, CLSS suite offers a solution for you. It fills in the gaps left by the Base Class Library. Its XML comments do the best to resemble ones that ship with classes and methods in the BCL. Its implementations try to follow the [.NET reference source](https://referencesource.microsoft.com/) as closely as possible. CLSS suite is built to make the BCL feel **complete**.
 
 Inkeeping with the intent to feel like a natural part of the language and its Class Library, CLSS will be averse to being revolutionary such as language-ext. CLSS packages may lean toward the syntax of functional programming, but will commit to the familiarity of the C# syntax. No monad or endofunctor here. Just functional programming the way you can still recognize as C#.
 
