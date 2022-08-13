@@ -1,3 +1,28 @@
+# Update 4 - 2022-08-13
+
+This is a maintenance update mainly to make CLSS packages depending on other CLSS packages to always use the latest version of the dependency.
+
+### Version updates
+
+- `CLSS.Constants.ValueEquivalentStrings` 1.0.0 > 1.1.0
+  - Automatically use the latest CLSS dependency version.
+- `CLSS.ExtensionMethods.IComparable.ClampToRange` 1.0.0 > 1.1.0
+  - Automatically use the latest CLSS dependency version.
+- `CLSS.ExtensionMethods.IComparable.InRange` 1.1.0 > 1.2.0
+  - Automatically use the latest CLSS dependency version.
+- `CLSS.ExtensionMethods.IDictionary.SwapKeys` 1.0.0 > 1.1.0
+  - Removed unnecessary dependency on CLSS.Types.ValueRange.
+- `CLSS.ExtensionMethods.IEnumerable.Looping` 1.0.0 > 1.1.0
+  - Automatically use the latest CLSS dependency version.
+- `CLSS.ExtensionMethods.IList.ExclusiveSample` 1.0.0 > 1.1.0
+  - Automatically use the latest CLSS dependency version.
+- `CLSS.ExtensionMethods.IList.GetWeightedRandom` 1.0.0 > 1.1.0
+  - Automatically use the latest CLSS dependency version.
+- `CLSS.ExtensionMethods.IList.Shuffle` 1.0.0 > 1.1.0
+  - Automatically use the latest CLSS dependency version.
+- `CLSS.Types.WeightedSampler` 1.0.0 > 1.1.0
+  - Automatically use the latest CLSS dependency version.
+
 # Update 3 - 2022-08-11
 
 ### Version updates
