@@ -94,3 +94,8 @@ Below is the list of packages contained in the CLSS suite so far:
 - [`CLSS.Constants.ValueEquivalentStrings`](https://www.nuget.org/packages/CLSS.Constants.ValueEquivalentStrings) ([Source](https://github.com/tonygiang/CLSS.Constants.ValueEquivalentStrings)): A global cache of default string representations of values of value types.
 - [`CLSS.ExtensionMethods.IEnumerable.Looping`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IEnumerable.Looping) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IEnumerable.Looping)): An extension method create an enumerable that infinitely loops over a collection.
 - [`CLSS.ExtensionMethods.IList.GetLoopingElementAt`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.GetLoopingElementAt) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IList.GetLoopingElementAt)): An extension method to cyclically convert any integer number into a valid index to get an element from a list.
+
+##### New in Update 5:
+
+- [`CLSS.ExtensionMethods.Reference.Action.Once`](https://www.nuget.org/packages/CLSS.ExtensionMethods.Reference.Action.Once) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.Reference.Action.Once)): An extension method to register a listener to a delegate that will only execute once.
+- [`CLSS.Types.EventLatch`](https://www.nuget.org/packages/CLSS.Types.EventLatch) ([Source](https://github.com/tonygiang/CLSS.Types.EventLatch)): A synchronisation aid object for single-threaded context.

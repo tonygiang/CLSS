@@ -1,3 +1,10 @@
+# Update 5 - 2022-08-20
+
+### New packages
+
+- [`CLSS.ExtensionMethods.Reference.Action.Once`](https://www.nuget.org/packages/CLSS.ExtensionMethods.Reference.Action.Once): An extension method to register a listener to a delegate that will only execute once.
+- [`CLSS.Types.EventLatch`](https://www.nuget.org/packages/CLSS.Types.EventLatch): A synchronisation aid object for single-threaded context.
+
 # Update 4 - 2022-08-13
 
 This is a maintenance update mainly to make CLSS packages depending on other CLSS packages to always use the latest version of the dependency.
