@@ -1,3 +1,19 @@
+# Update 6 - 2022-08-31
+
+### Version updates
+
+- `CLSS.ExtensionMethods.Pipe` 1.2.0 > 1.3.0
+  - Reversed support for BCL delegate types since they create ambiguous issue.
+  - Improved comment for type parameters.
+  - Experimental support for language-sensitive syntax highlighting in README file.
+- Deprecated version 1.2.0 of `CLSS.ExtensionMethods.Pipe` due to the method ambiguity issue created by the addition of overloads for built-in BCL delegate types.
+
+### New packages
+
+- [`CLSS.ExtensionMethods.IDictionary.RemoveAndProcess`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IDictionary.RemoveAndProcess): An extension method that combines the removal of a key from an IDictionary and post-removal processing of that key's associated value into one method call.
+- [`CLSS.ExtensionMethods.IList.RemoveAndProcess`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.RemoveAndProcess): An extension method that combines the removal of an element from an IList and post-removal processing of that element into one method call.
+- [`CLSS.Types.AgnosticObjectPool`](https://www.nuget.org/packages/CLSS.Types.AgnosticObjectPool): A domain-agnostic object pool that only handles pooling logic and lets you customize object creation and availability checking logic.
+
 # Update 5 - 2022-08-20
 
 ### New packages
