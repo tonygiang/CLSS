@@ -1,3 +1,13 @@
+# Update 7 - 2022-10-05
+
+This is a hotfix update.
+
+### Version updates
+
+- `CLSS.Types.MemoizedFunc` 1.1.0 > 1.2.0
+  - Remove the dependency on System.ValueTuple on .NET Standard 2.0.
+  - Add language-sensitive syntax highlighting in README file.
+
 # Update 6 - 2022-08-31
 
 ### Version updates
