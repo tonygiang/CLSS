@@ -1,3 +1,49 @@
+# Update 8 - 2022-11-16
+
+### Version updates
+
+- `CLSS.Constants.DefaultRandom` 1.2.0 > 1.2.1
+  - Improved comment.
+- `CLSS.Constants.NoOp` 1.0.0 > 1.0.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.Constants.ValueEquivalentStrings` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.CommonMathOps` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IComparable.ClampToRange` 1.1.0 > 1.2.0
+  - Added language-sensitive syntax highlighting in README file.
+  - Added Unity-specific compilation directive.
+- `CLSS.ExtensionMethods.IComparable.InRange` 1.2.0 > 1.3.0
+  - Added language-sensitive syntax highlighting in README file.
+  - Added Unity-specific compilation directive.
+- `CLSS.ExtensionMethods.IDictionary.GetOrAdd` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IDictionary.MoveKey` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IDictionary.RemoveAndProcess` 1.0.0 > 1.0.1
+  - Changed XML comment to better reflect the order of execution.
+- `CLSS.ExtensionMethods.IDictionary.SwapKeys` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IEnumerable.ForEach` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IEnumerable.Looping` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IList.RemoveAndProcess` 1.0.0 > 1.0.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.String.AsEnum` 1.0.0 > 1.0.1
+  - Fixed grammatical error in README.
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.Types.AgnosticObjectPool` 1.0.0 > 1.0.1
+  - Improved comment.
+  - Improved README description.
+- `CLSS.Types.ValueRange` 1.0.0 > 1.0.1
+  - Improved comment.
+  - Added language-sensitive syntax highlighting in README file.
+  
+### New packages
+
+- [`CLSS.Constants.CollectionPool`](https://www.nuget.org/packages/CLSS.Constants.CollectionPool): A collection of statically-defined pools of Base Class Library's built-in collection types.
+
 # Update 7 - 2022-10-05
 
 This is a hotfix update.

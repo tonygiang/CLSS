@@ -105,3 +105,7 @@ Below is the list of packages contained in the CLSS suite so far:
 - [`CLSS.ExtensionMethods.IDictionary.RemoveAndProcess`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IDictionary.RemoveAndProcess) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IDictionary.RemoveAndProcess)): An extension method that combines the removal of a key from an IDictionary and post-removal processing of that key's associated value into one method call.
 - [`CLSS.ExtensionMethods.IList.RemoveAndProcess`](https://www.nuget.org/packages/CLSS.ExtensionMethods.IList.RemoveAndProcess) ([Source](https://github.com/tonygiang/CLSS.ExtensionMethods.IList.RemoveAndProcess)): An extension method that combines the removal of an element from an IList and post-removal processing of that element into one method call.
 - [`CLSS.Types.AgnosticObjectPool`](https://www.nuget.org/packages/CLSS.Types.AgnosticObjectPool) ([Source](https://github.com/tonygiang/CLSS.Types.AgnosticObjectPool)): A domain-agnostic object pool that only handles pooling logic and lets you customize object creation and availability checking logic.
+
+##### New in Update 8:
+
+- [`CLSS.Constants.CollectionPool`](https://www.nuget.org/packages/CLSS.Constants.CollectionPool) ([Source](https://github.com/tonygiang/CLSS.Constants.CollectionPool)): A collection of statically-defined pools of Base Class Library's built-in collection types.
