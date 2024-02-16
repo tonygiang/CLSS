@@ -4,7 +4,7 @@ A collection of independent or loosely-coupled packages to enhance the syntax of
 
 ## Why CLSS?
 
-The C# Language Syntactic Sugar suite was created out of my frustration working with C#. The language and its Class Library have not evolved fast enough to address the inconsistencies, performance traps, unintuitiveness and lacking accommodation of common use-cases despite it is very much inline with the language's tradition to accommodate such use-cases. Did you know that the Class Library ships with a [Version](https://docs.microsoft.com/en-us/dotnet/api/system.version?view=net-6.0) type that parses version strings in the `major.minor[.build[.revision]]` syntax and also programmatically implements `IComparable<T>` and `IEquatable<T>`?
+The C# Language Syntactic Sugar suite was created out of my frustration working with C#. The language and its Class Library have not evolved fast enough to address the inconsistencies, performance traps, unintuitiveness and lacking accommodation of common use-cases despite it is very much inline with the language's tradition to accommodate such use-cases. It still lacks some batteries for a "batteries included" language, even long after the inclusion in the BCL of types that serve a very niche use case such as the [Version](https://docs.microsoft.com/en-us/dotnet/api/system.version?view=net-6.0) type that parses version strings in the `major.minor[.build[.revision]]` syntax and also programmatically implements `IComparable<T>` and `IEquatable<T>`.
 
 Even when these concerns are addressed, they only come to the latest versions of the language and Class Library. Working in a bleeding-edge .NET environment is a luxury for many developers.
 
@@ -16,7 +16,7 @@ CLSS set out to go in a different direction.
 
 CLSS suite embraces the [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy).  CLSS tried not to be one monolothic package but rather an umbrella for multiple packages. Each package is laser-focused on providing one functionality and can be installed (mostly) independently of other packages. Only install what you want and what is compatible with your current project, and no more.
 
-## Natural
+## More batteries
 
 There are several irregulaties in the .NET Standard Library.
 
@@ -26,7 +26,7 @@ Why is there a [`ForEach`](https://docs.microsoft.com/en-us/dotnet/api/system.co
 
 Why does [`Enum.Parse`](https://docs.microsoft.com/en-us/dotnet/api/system.enum.parse?view=net-6.0) allow non-Enum value types in its type parameter?
 
-If you ever felt like these irregularities should not have existed to provide better consistency, CLSS suite offers a solution for you. It fills in the gaps left by the Base Class Library. Its XML comments do the best to resemble ones that ship with classes and methods in the BCL. Its implementations try to follow the [.NET reference source](https://referencesource.microsoft.com/) as closely as possible. CLSS suite is built to make the BCL feel **complete**.
+If you ever felt like these irregularities should not have existed to provide better consistency, CLSS suite offers a solution for you. It fills in the gaps left by the Base Class Library. Its XML comments do the best to resemble ones that ship with classes and methods in the BCL. Its implementations try to follow the [.NET reference source](https://referencesource.microsoft.com/) as closely as possible. CLSS suite is built to make the BCL feel **complete**, to take the "batteries included" philosophy one step further. To add more batteries, so to speak.
 
 Inkeeping with the intent to feel like a natural part of the language and its Class Library, CLSS will be averse to being revolutionary such as language-ext. CLSS packages may lean toward the syntax of functional programming, but will commit to the familiarity of the C# syntax. No monad or endofunctor here. Just functional programming the way you can still recognize as C#.
 

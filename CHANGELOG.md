@@ -1,3 +1,51 @@
+# Update 9 - 2024-02-16
+
+### Version updates
+
+- `CLSS.Constants.CollectionPool` 1.0.0 > 1.1.0
+  - Updated package dependency.
+- `CLSS.ExtensionMethods.IComparable.ClampToRange` 1.2.0 > 1.3.0
+  - Renamed the version for non-generic IComparable for better compatibility with types that implement both generic and non-generic IComparable.
+- `CLSS.ExtensionMethods.IDictionary.SwapKeys` 1.1.1 > 1.1.2
+  - Fixed minor errors in README file.
+- `CLSS.ExtensionMethods.IEnumerable.MinMaxBy` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IEnumerator.LoopNext` 1.0.1 > 1.0.2
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IList.FillBy` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IList.FirstLastIndex` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+  - Fixed a minor error in README file.
+- `CLSS.ExtensionMethods.IList.GetLoopingElementAt` 1.0.0 > 1.0.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IList.GetRandom` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IList.GetWeightedRandom` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IList.Shuffle` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.IList.SwapIndices` 1.2.0 > 1.2.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.Object.As` 1.0.0 > 1.0.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.Object.Is` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.Object.ToStringFormattedBy` 1.0.0 > 1.0.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.ExtensionMethods.Reference.Action.Once` 1.0.0 > 1.0.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.Types.AgnosticObjectPool` 1.0.1 > 1.1.0
+  - Fixed an IndexOutOfRangeException when TakeOne triggers a growth.
+- `CLSS.Types.EventLatch` 1.0.0 > 1.0.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.Types.Reference` 1.0.0 > 1.0.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.Types.SortedAction` 1.1.0 > 1.1.1
+  - Added language-sensitive syntax highlighting in README file.
+- `CLSS.Types.ValueRange` 1.0.1 > 1.1.0
+  - Added Encapsulate extension method.
+
 # Update 8 - 2022-11-16
 
 ### Version updates
